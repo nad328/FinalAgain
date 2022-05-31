@@ -47,6 +47,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/fly\/left.png" : {
+      "ft" : 32768,
+      "iS" : 314,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/fly\/left.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/fly\/moon.png" : {
       "ft" : 32768,
       "iS" : 131969,
@@ -73,6 +86,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/fly\/right.png" : {
+      "ft" : 32768,
+      "iS" : 413,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/fly\/right.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/header\/Header.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -82,6 +108,19 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/deploy\/img\/header\/Three.png" : {
+      "ft" : 32768,
+      "iS" : 151,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/header\/Three.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/img\/heroes\/Banner.png" : {
       "ft" : 32768,
@@ -176,7 +215,7 @@
     },
     "\/deploy\/img\/heroes\/Solar.png" : {
       "ft" : 32768,
-      "iS" : 110676,
+      "iS" : 105831,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/heroes\/Solar.png",
       "oF" : 0,
@@ -200,11 +239,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/heroes\/World.png" : {
+    "\/deploy\/img\/heroes\/Window.png" : {
       "ft" : 32768,
-      "iS" : 137656,
+      "iS" : 132081,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroes\/World.png",
+      "oAP" : "\/deploy\/img\/heroes\/Window.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -231,6 +270,30 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/dev\/content\/Articles.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/Articles.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/Moon.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/Moon.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/news.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/news.html",
+      "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
