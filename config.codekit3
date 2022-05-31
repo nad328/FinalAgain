@@ -301,9 +301,9 @@
   "projectAttributes" : {
     "creationDate" : 675679209.10007,
     "displayValue" : "FinalAgain",
-    "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-brick",
-    "iconImageWasSetByUser" : 0
+    "displayValueWasSetByUser" : 1,
+    "iconImageName" : "meme-crying",
+    "iconImageWasSetByUser" : 1
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
