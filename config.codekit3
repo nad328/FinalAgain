@@ -99,6 +99,58 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/footer\/facebook.png" : {
+      "ft" : 32768,
+      "iS" : 364,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/footer\/facebook.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/footer\/instagram.png" : {
+      "ft" : 32768,
+      "iS" : 556,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/footer\/instagram.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/footer\/linkdin.png" : {
+      "ft" : 32768,
+      "iS" : 332,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/footer\/linkdin.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/footer\/oh.png" : {
+      "ft" : 32768,
+      "iS" : 3593,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/footer\/oh.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/header\/Header.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -299,7 +351,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/global\/footer.html",
       "oF" : 0
     },
