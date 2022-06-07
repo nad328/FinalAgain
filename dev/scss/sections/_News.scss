@@ -1,0 +1,37 @@
+/* =============
+    News
+============= */
+.news-sub{
+
+    >div{
+    display: grid;
+    grid-template-columns: 50% auto;
+    }
+    section{
+
+    }
+
+    aside{
+        img{
+            width: 100%;
+        }
+    }
+}
+
+.also-sub{
+    >div{
+    display: grid;
+    grid-template-columns: 50% auto;
+    }
+   
+    aside{
+        img{
+            width: 80%;
+        }
+    }
+    section{
+        
+    }
+
+}
+

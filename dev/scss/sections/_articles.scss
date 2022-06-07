@@ -1,10 +1,49 @@
 /* =============
     Articles
 ============= */
-#Rainbow{
-    section{
 
-    
-   color: green;
+
+.ra-sub{
+    >div{
+    display: grid;
+    grid-template-columns: 10% auto;
+    }
+
+    section{
+        
+    }
+   
+    aside{
+        img{
+            width: 100%;
+        }
+    }
+   
+
+}
+
+#Rainbow{
+    aside{
+        #rainbow_img{
+            width: 300px;
+        }
+    }
+ }
+
+#AllCards
+ul{
+
+    li{
+        img{
+
+        width: 350px;
+    }
+        }
+    button{
+        h1{
+        width: 150px;
+        height: 5px;
+        
+        }
     }
 }
