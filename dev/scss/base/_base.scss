@@ -4,7 +4,7 @@
 
 body{
     background-color: black;
-    text-decoration: white;
+    
 }
 
 ul{
@@ -20,22 +20,11 @@ ul{
 
     display: grid;
     grid-template-columns: 16px auto 16px;
-    grid-template-areas: ". global-grid .";
+    grid-template-areas: ". global-content .";
 
     >div{
-        grid-area: global-grid;
+        grid-area: global-content;
     }
 
 }
 
-.middle-grid{
-
-    display: grid;
-    grid-template-columns: 16px auto auto 16px;
-    grid-template-areas: ". global-grid global-grid .";
-
-    >div{
-        grid-area: global-grid;
-    }
-
-}
