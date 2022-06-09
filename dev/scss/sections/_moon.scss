@@ -3,7 +3,7 @@
 ============= */
 #moonie{
 
-    aside{
+    div{
         h1{
             color: white;
         }
@@ -14,11 +14,7 @@
             color: white;
         }
     }
-    @include xl{
-        grid-template-columns: auto 1000px auto;
-        padding-left: 5%;
-        grid-template-areas: ". moonie .";
-    }
+   
 
     
 }

@@ -516,21 +516,14 @@ footer {
 /* =============
     Moon
 ============= */
-#moonie aside h1 {
+#moonie div h1 {
   color: white;
 }
-#moonie aside h2 {
+#moonie div h2 {
   color: white;
 }
-#moonie aside p {
+#moonie div p {
   color: white;
-}
-@media (min-width: 1280px) {
-  #moonie {
-    grid-template-columns: auto 1000px auto;
-    padding-left: 5%;
-    grid-template-areas: ". moonie .";
-  }
 }
 
 /* =============

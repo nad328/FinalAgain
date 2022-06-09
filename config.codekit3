@@ -312,6 +312,14 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 0
     },
+    "\/deploy\/js\/education.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/js\/education.html",
+      "oF" : 0
+    },
     "\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -337,6 +345,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/Moon.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/nav.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/nav.html",
       "oF" : 0
     },
     "\/dev\/content\/news.kit" : {
@@ -578,6 +594,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/sections\/_nav.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_nav.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/sections\/_News.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -592,6 +623,14 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/dev\/scss\/sections\/education.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/scss\/sections\/education.html",
+      "oF" : 0
     },
     "\/dev\/scss\/styles.scss" : {
       "aP" : 0,
