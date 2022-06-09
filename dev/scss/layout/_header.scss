@@ -1,10 +1,16 @@
 /* =============
     Header
 ============= */
-header{
+.header{
     background-color: black;
+
+   
     section{
         img{
+
+            @include md{
+                width: 100%;
+            }
          width: 400px;
         }
     }

@@ -427,11 +427,16 @@ textarea {
 /* =============
     Header
 ============= */
-header {
+.header {
   background-color: black;
 }
-header section img {
+.header section img {
   width: 400px;
+}
+@media (min-width: 768px) {
+  .header section img {
+    width: 100%;
+  }
 }
 
 /* =============
@@ -447,7 +452,6 @@ footer {
   grid-area: IMGF;
   padding-left: 15%;
 }
-
 #IMGM {
   grid-area: IMGM;
   padding-left: 115%;
@@ -458,13 +462,18 @@ footer {
   padding-left: 220%;
 }
 
+#IMGS {
+  grid-area: IMGS;
+  background-image: url("../img/heroes/jupiter.png");
+}
+
 @media (min-width: 768px) {
   #AllCards aside {
     padding-top: 500%;
     display: grid;
     grid-template-columns: 25% 25% auto;
     grid-template-areas: "IMGF IMGM IMGW" img;
-    grid-template-areas-width: 350px;
+    grid-template-areas-width: 100%;
   }
 }
 
@@ -507,18 +516,19 @@ footer {
 /* =============
     Moon
 ============= */
-#moonie div h1 {
+#moonie aside h1 {
   color: white;
 }
-#moonie div h2 {
+#moonie aside h2 {
   color: white;
 }
-#moonie div p {
+#moonie aside p {
   color: white;
 }
-@media (min-width: 1440px) {
+@media (min-width: 1280px) {
   #moonie {
-    grid-template-columns: auto 1440px auto;
+    grid-template-columns: auto 1000px auto;
+    padding-left: 5%;
     grid-template-areas: ". moonie .";
   }
 }

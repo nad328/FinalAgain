@@ -3,7 +3,11 @@
 ============= */
 #IMGF{
     grid-area: IMGF;
-    padding-left: 15%
+    padding-left: 15%;
+
+  @include xl{
+
+  }
 }
 
 #IMGM{
@@ -11,8 +15,15 @@
     padding-left: 115%;
  }
  #IMGW{
+    
+
      grid-area: IMGJ;
      padding-left: 220%
+ }
+
+ #IMGS{
+     grid-area: IMGS;
+    background-image: url("../img/heroes/jupiter.png");
  }
 
 
@@ -28,9 +39,13 @@
 
         img{
 
-        width: 350px;
+        width: 100%;
         }
         }
+
+        
+
+        
     }
 
      
