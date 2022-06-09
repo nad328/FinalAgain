@@ -93,6 +93,7 @@ abbr[title] {
   /* 1 */
   text-decoration: underline;
   /* 2 */
+  -webkit-text-decoration: underline dotted;
   text-decoration: underline dotted;
   /* 2 */
 }
@@ -594,6 +595,8 @@ footer {
   }
 }
 #Rainbow aside #rainbow_img {
+  width: -webkit-fill-available;
+  width: -moz-available;
   width: fill;
 }
 
@@ -620,8 +623,4 @@ footer {
 
 #welcome {
   width: 100%;
-}
-
-hi {
-  color: white;
 }
