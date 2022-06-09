@@ -1,47 +1,52 @@
 /* =============
     Articles
 ============= */
+#IMGF{
+    grid-area: IMGF;
+    padding-left: 15%
+}
 
-
+#IMGM{
+    grid-area: IMGM;
+    padding-left: 115%;
+ }
+ #IMGW{
+     grid-area: IMGJ;
+     padding-left: 220%
+ }
 
 
  #AllCards
- article{
-     @include md{
-         display: grid;
-         grid-template-columns: 25% 25% auto;
-         grid-template-areas: "IMGF IMGM IMGW"
-    #IMGF{
-        grid-area: IMGF;
-     }
+ aside{
+    
+        @include md{
+            padding-top: 500%;
+            display: grid;
+            grid-template-columns: 25% 25% auto;
+            grid-template-areas:"IMGF IMGM IMGW"
+            
 
-     #IMGM{
-        grid-area: IMGM;
-     }
-     #IMGW{
-         grid-area: IMGJ;
-     }
-     }
-
-ul{
-
-    li{
         img{
 
         width: 350px;
         }
         }
+    }
 
-}
-     }
+     
  
 
 #Buttons{
+
+    @include md{
+      padding-left: 35%;
+    }
 
     display: grid;
     grid-template-columns: 16px auto 16px;
     padding-left: 25%;
     padding-top: 25% ;
+    
     
     button{
         background-color: black;

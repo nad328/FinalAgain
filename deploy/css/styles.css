@@ -443,22 +443,29 @@ footer {
 /* =============
     Articles
 ============= */
+#IMGF {
+  grid-area: IMGF;
+  padding-left: 15%;
+}
+
+#IMGM {
+  grid-area: IMGM;
+  padding-left: 115%;
+}
+
+#IMGW {
+  grid-area: IMGJ;
+  padding-left: 220%;
+}
+
 @media (min-width: 768px) {
-  #AllCards article {
+  #AllCards aside {
+    padding-top: 500%;
     display: grid;
     grid-template-columns: 25% 25% auto;
-    grid-template-areas: "IMGF IMGM IMGW" #IMGF;
-    grid-template-areas-grid-area: IMGF;
+    grid-template-areas: "IMGF IMGM IMGW" img;
+    grid-template-areas-width: 350px;
   }
-  #AllCards article #IMGM {
-    grid-area: IMGM;
-  }
-  #AllCards article #IMGW {
-    grid-area: IMGJ;
-  }
-}
-#AllCards article ul li img {
-  width: 350px;
 }
 
 #Buttons {
@@ -466,6 +473,11 @@ footer {
   grid-template-columns: 16px auto 16px;
   padding-left: 25%;
   padding-top: 25%;
+}
+@media (min-width: 768px) {
+  #Buttons {
+    padding-left: 35%;
+  }
 }
 #Buttons button {
   background-color: black;
