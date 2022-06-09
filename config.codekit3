@@ -29,6 +29,19 @@
       "oAP" : "\/deploy\/education.html",
       "oF" : 0
     },
+    "\/deploy\/img\/Education\/Article.png" : {
+      "ft" : 32768,
+      "iS" : 116548,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/Article.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/Education\/AstroMan.png" : {
       "ft" : 32768,
       "iS" : 9330,
@@ -73,19 +86,6 @@
       "iS" : 4178,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/Education\/drop.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/Education\/Education Article.png" : {
-      "ft" : 32768,
-      "iS" : 116548,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/Education\/Education Article.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -146,11 +146,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Education\/Fact Card.png" : {
+    "\/deploy\/img\/Education\/engage.png" : {
       "ft" : 32768,
-      "iS" : 4489,
+      "iS" : 67840,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Education\/Fact Card.png",
+      "oAP" : "\/deploy\/img\/Education\/engage.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -159,11 +159,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Education\/Rectangle 1750.png" : {
+    "\/deploy\/img\/Education\/Fact Card.png" : {
       "ft" : 32768,
-      "iS" : 67840,
+      "iS" : 4489,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Education\/Rectangle 1750.png",
+      "oAP" : "\/deploy\/img\/Education\/Fact Card.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -521,6 +521,14 @@
       "oAP" : "\/dev\/content\/Articles.html",
       "oF" : 0
     },
+    "\/dev\/content\/Banner.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/Banner.html",
+      "oF" : 1
+    },
     "\/dev\/content\/Moon.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -544,6 +552,14 @@
       "oA" : 1,
       "oAP" : "\/dev\/content\/news.html",
       "oF" : 0
+    },
+    "\/dev\/content\/Opp.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/Opp.html",
+      "oF" : 1
     },
     "\/dev\/education.kit" : {
       "cB" : 0,
@@ -769,6 +785,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/sections\/_Banner.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_Banner.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/sections\/_moon.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -809,6 +840,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/sections\/_News.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_Opp.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_Opp.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
