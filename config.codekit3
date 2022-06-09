@@ -21,6 +21,196 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/education.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/education.html",
+      "oF" : 0
+    },
+    "\/deploy\/img\/Education\/AstroMan.png" : {
+      "ft" : 32768,
+      "iS" : 9330,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/AstroMan.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/astrowoman.png" : {
+      "ft" : 32768,
+      "iS" : 9171,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/astrowoman.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/cat.png" : {
+      "ft" : 32768,
+      "iS" : 3301,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/cat.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/drop.png" : {
+      "ft" : 32768,
+      "iS" : 4178,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/drop.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/Education Article.png" : {
+      "ft" : 32768,
+      "iS" : 116548,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/Education Article.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/Education Article2.png" : {
+      "ft" : 32768,
+      "iS" : 78880,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/Education Article2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/Education Article3.png" : {
+      "ft" : 32768,
+      "iS" : 121319,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/Education Article3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/Education Article4.png" : {
+      "ft" : 32768,
+      "iS" : 86431,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/Education Article4.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/Education Article5.png" : {
+      "ft" : 32768,
+      "iS" : 69767,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/Education Article5.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/Fact Card.png" : {
+      "ft" : 32768,
+      "iS" : 4489,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/Fact Card.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/Rectangle 1750.png" : {
+      "ft" : 32768,
+      "iS" : 67840,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/Rectangle 1750.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/Slider.png" : {
+      "ft" : 32768,
+      "iS" : 505,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/Slider.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/UFO.png" : {
+      "ft" : 32768,
+      "iS" : 2657,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/UFO.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Education\/Uploading.png" : {
+      "ft" : 32768,
+      "iS" : 1757,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Education\/Uploading.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/fly\/cliff.png" : {
       "ft" : 32768,
       "iS" : 59366,
@@ -312,14 +502,6 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 0
     },
-    "\/deploy\/js\/education.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/js\/education.html",
-      "oF" : 0
-    },
     "\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -362,6 +544,14 @@
       "oA" : 1,
       "oAP" : "\/dev\/content\/news.html",
       "oF" : 0
+    },
+    "\/dev\/education.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/education.html",
+      "oF" : 2
     },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
@@ -623,14 +813,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/dev\/scss\/sections\/education.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/sections\/education.html",
-      "oF" : 0
     },
     "\/dev\/scss\/styles.scss" : {
       "aP" : 0,
