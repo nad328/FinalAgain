@@ -372,6 +372,30 @@ ul li {
 .global-css-grid > div {
   grid-area: global-content;
 }
+.global-css-grid .show-for-md {
+  display: none;
+}
+@media (min-width: 768px) {
+  .global-css-grid .show-for-md {
+    display: block;
+  }
+}
+.global-css-grid .show-for-lg {
+  display: none;
+}
+@media (min-width: 1024px) {
+  .global-css-grid .show-for-lg {
+    display: block;
+  }
+}
+.global-css-grid .show-for-xl {
+  display: none;
+}
+@media (min-width: 1280px) {
+  .global-css-grid .show-for-xl {
+    display: block;
+  }
+}
 
 /* =============
     Typography
@@ -419,29 +443,53 @@ footer {
 /* =============
     Articles
 ============= */
-.ra-sub > div {
-  display: grid;
-  grid-template-columns: 10% auto;
-}
-.ra-sub aside img {
-  width: 100%;
-}
-
-#Rainbow aside #rainbow_img {
-  width: 300px;
-}
-
 #AllCards ul li img {
   width: 350px;
+}
+#AllCards ul button {
+  background-color: black;
+  border-color: white;
 }
 #AllCards ul button h1 {
   width: 150px;
   height: 5px;
+  color: white;
+}
+
+#MoreCards {
+  padding-top: 30%;
+  color: white;
+}
+#MoreCards ul li img {
+  width: 350px;
+}
+#MoreCards button {
+  background-color: black;
+  border-color: white;
+}
+#MoreCards button h1 {
+  color: white;
 }
 
 /* =============
     Moon
 ============= */
+#moonie div h1 {
+  color: white;
+}
+#moonie div h2 {
+  color: white;
+}
+#moonie div p {
+  color: white;
+}
+@media (min-width: 1440px) {
+  #moonie {
+    grid-template-columns: auto 1440px auto;
+    grid-template-areas: ". moonie .";
+  }
+}
+
 /* =============
     News
 ============= */
@@ -457,6 +505,74 @@ footer {
   display: grid;
   grid-template-columns: 50% auto;
 }
-.also-sub aside img {
-  width: 80%;
+.also-sub section p {
+  color: white;
+}
+
+#One {
+  grid-area: One;
+}
+
+#Two {
+  grid-area: Two;
+}
+
+#misc {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+@media (min-width: 768px) {
+  #misc > div {
+    color: white;
+    display: grid;
+    grid-template-columns: 50% auto;
+    grid-template-areas: "One Two";
+  }
+}
+#misc section h2 {
+  color: white;
+}
+#misc section p {
+  color: white;
+}
+#misc section button {
+  color: white;
+  background-color: black;
+  border-color: black;
+}
+#misc section button img {
+  color: white;
+  padding-top: 15px;
+}
+
+@media (min-width: 768px) {
+  #Rainbow > div {
+    display: grid;
+    grid-template-columns: 50% auto;
+    grid-template-areas: "Card Image";
+  }
+}
+#Rainbow aside #rainbow_img {
+  width: fill;
+}
+
+.ra-sub > div {
+  display: grid;
+  color: white;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.ra-sub div section button {
+  background-color: black;
+}
+#Image {
+  grid-area: Image;
+}
+
+#Card {
+  color: white;
+  grid-area: Card;
+  background-color: #003355;
+  width: 70%;
+  height: 70%;
 }

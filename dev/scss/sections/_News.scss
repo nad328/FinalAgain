@@ -20,18 +20,145 @@
 
 .also-sub{
     >div{
-    display: grid;
-    grid-template-columns: 50% auto;
-    }
+        display: grid;
+        grid-template-columns: 50% auto;
+        }
    
     aside{
         img{
-            width: 80%;
+            
         }
     }
     section{
-        
+        h2{
+
+        }
+        p{
+            color: white;
+        }
     }
 
 }
 
+#One{
+    grid-area: One;
+    
+}
+
+
+#Two{
+    grid-area: Two;
+    
+}
+
+
+#misc{
+
+    @include md{
+       
+
+        >div{
+            color: white;
+            display: grid;
+            grid-template-columns:  50% auto ;
+            grid-template-areas: "One Two"
+        }
+    }
+   
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+    
+    section{
+        
+        h2{
+            color: white;
+        }
+        p{
+            color: white;
+        }
+        button{
+            color: white;
+            background-color: black;
+            border-color: black;
+            img{
+                color: white;
+                padding-top: 15px;
+        
+            }
+        }
+    }
+}
+aside{
+    img{
+       
+        
+    }
+}
+
+#Rainbow{
+    @include md{
+       
+
+    >div{
+        display: grid;
+        grid-template-columns:  50% auto ;
+        grid-template-areas: "Card Image"
+    }
+}
+ 
+    
+    aside{
+        #rainbow_img{
+            width: fill;
+        }
+    }
+ }
+
+
+.ra-sub{
+    >div{
+    display: grid;
+    
+    color: white;
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+    }
+    
+    div{
+    section{
+        button{
+            background-color: black;
+            
+            img{
+
+            }
+        }
+        
+    }
+   
+    aside{
+        img{
+           
+            
+        }
+    }
+}
+}
+
+
+#Image{
+    
+    grid-area: Image;
+}
+
+#Card{
+    color: white;
+    grid-area: Card;
+    background-color: #003355;
+    width: 70%;
+    height: 70%;
+    
+}

@@ -3,34 +3,9 @@
 ============= */
 
 
-.ra-sub{
-    >div{
-    display: grid;
-    grid-template-columns: 10% auto;
-    }
 
-    section{
-        
-    }
-   
-    aside{
-        img{
-            width: 100%;
-        }
-    }
-   
 
-}
-
-#Rainbow{
-    aside{
-        #rainbow_img{
-            width: 300px;
-        }
-    }
- }
-
-#AllCards
+ #AllCards
 ul{
 
     li{
@@ -40,10 +15,45 @@ ul{
     }
         }
     button{
+        background-color: black;
+        border-color: white;
+        
         h1{
-        width: 150px;
-        height: 5px;
+            width: 150px;
+            height: 5px;
+        color: white;
         
         }
     }
+}
+
+#MoreCards{
+
+
+    
+    padding-top: 30%;
+        color: white;
+        ul{
+            li{
+                p{
+
+                }
+                img{
+                    width: 350px;
+                }
+            }
+        }
+
+        button{
+
+            background-color: black;
+            border-color: white;
+            
+            h1{
+                
+            color: white;
+            }
+        }
+    
+    
 }
