@@ -446,13 +446,20 @@ footer {
 #AllCards ul li img {
   width: 350px;
 }
-#AllCards ul button {
+
+#Buttons {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  padding-left: 25%;
+  padding-top: 25%;
+}
+#Buttons button {
   background-color: black;
   border-color: white;
+  height: 100px;
+  width: 200px;
 }
-#AllCards ul button h1 {
-  width: 150px;
-  height: 5px;
+#Buttons button h1 {
   color: white;
 }
 
@@ -515,6 +522,11 @@ footer {
 
 #Two {
   grid-area: Two;
+  background-color: #003355;
+}
+
+#Three {
+  grid-area: Three;
 }
 
 #misc {
