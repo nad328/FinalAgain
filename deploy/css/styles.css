@@ -443,7 +443,21 @@ footer {
 /* =============
     Articles
 ============= */
-#AllCards ul li img {
+@media (min-width: 768px) {
+  #AllCards article {
+    display: grid;
+    grid-template-columns: 25% 25% auto;
+    grid-template-areas: "IMGF IMGM IMGW" #IMGF;
+    grid-template-areas-grid-area: IMGF;
+  }
+  #AllCards article #IMGM {
+    grid-area: IMGM;
+  }
+  #AllCards article #IMGW {
+    grid-area: IMGJ;
+  }
+}
+#AllCards article ul li img {
   width: 350px;
 }
 

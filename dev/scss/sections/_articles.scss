@@ -6,6 +6,23 @@
 
 
  #AllCards
+ article{
+     @include md{
+         display: grid;
+         grid-template-columns: 25% 25% auto;
+         grid-template-areas: "IMGF IMGM IMGW"
+    #IMGF{
+        grid-area: IMGF;
+     }
+
+     #IMGM{
+        grid-area: IMGM;
+     }
+     #IMGW{
+         grid-area: IMGJ;
+     }
+     }
+
 ul{
 
     li{
@@ -16,13 +33,15 @@ ul{
         }
 
 }
+     }
+ 
 
 #Buttons{
 
     display: grid;
     grid-template-columns: 16px auto 16px;
     padding-left: 25%;
-    padding-top: 25%;
+    padding-top: 25% ;
     
     button{
         background-color: black;
