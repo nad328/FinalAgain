@@ -159,11 +159,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Education\/Fact Card.png" : {
+    "\/deploy\/img\/Education\/Fact.png" : {
       "ft" : 32768,
       "iS" : 4489,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Education\/Fact Card.png",
+      "oAP" : "\/deploy\/img\/Education\/Fact.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -542,6 +542,14 @@
       "oAP" : "\/dev\/content\/Banner.html",
       "oF" : 1
     },
+    "\/dev\/content\/Drop.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/Drop.html",
+      "oF" : 0
+    },
     "\/dev\/content\/Moon.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -808,6 +816,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/sections\/_Banner.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_drop.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_drop.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
